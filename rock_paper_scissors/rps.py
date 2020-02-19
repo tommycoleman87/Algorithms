@@ -38,4 +38,4 @@ if __name__ == "__main__":
     else:
         print('Usage: rps.py [num_plays]')
 
-print(rps_helper([['rock'], ['paper'], ['scissors']]))
+print()
